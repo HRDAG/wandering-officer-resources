@@ -38,25 +38,25 @@ be used to track police officers who move across departments.
 In Oakland, there are multiple agencies with whom you can file a complaint
 about the police:
 
-### Oakland Police Department (OPD) Internal Affairs Division
+## [Oakland Police Department (OPD) Internal Affairs Division](https://www.oaklandca.gov/Public-Safety-Streets/Report-Police-Misconduct)
 
 There is a 24-hour Complaint Hotline: (866) 214-8834 where you can file a
 complaint by leaving a detailed message. For information on how to file a
 complaint in person or by mail, see
 [here](https://www.oaklandca.gov/Public-Safety-Streets/Report-Police-Misconduct)
 
-### Community Police Review Agency (CPRA)
+## [Community Police Review Agency (CPRA)](https://www.oaklandca.gov/Government/Departments/Community-Police-Review-Agency)
 
 The Community Police Review Agency (CPRA) is a civilian-run, community-centered
 police oversight agency that investigates allegations of Oakland Police
 Department (OPD) misconduct.
 
-You can submit a complaint about an OPD officer to CPRA [using this
+You can submit a complaint about an OPD officer to CPRA [using the CPRA online
 form](https://apps.oaklandca.gov/cprapublic/Home.aspx). Find more information
 about filing complaints through CPRA [at the CPRA
 website](https://www.oaklandca.gov/Government/Departments/Community-Police-Review-Agency)
 
-### Submit a complaint through POST
+## [Submit a complaint through POST](https://post.ca.gov/public-complaints)
 
 The Peace Officer Standards and Training (POST) Commission is a state-wide
 agency that oversees law enforcement training and standards in California. As
@@ -64,19 +64,27 @@ of 2022, they accept complaints from the public about police officers for
 possible decertification.
 
 POST will only investigate complaints regarding "serious" misconduct as defined
-under SB-2. For the purposes of filing a complaint with POST, "serious"
-misconduct is one of: Abuse of Power, Physical abuse, Sexual assault,
-Demonstrating bias, Acts that violate the law, Participation in a law
-enforcement gang, Failure to cooperate. See [here](https://www.aclunorcal.org/campaigns-initiatives/police-decertification-california-how-it-works/#seriousmisconduct) for more details on what complaints POST will investigate.
+under SB-2. This includes any of the following
+
+- Abuse of Power
+- Physical abuse
+- Sexual assault
+- Demonstrating bias
+- Acts that violate the law
+- Participation in a law enforcement gang
+- Failure to cooperate
+
+See [this reference](https://www.aclunorcal.org/campaigns-initiatives/police-decertification-california-how-it-works/#seriousmisconduct)
+for definitions and examples of each type of serious misconduct.
 
 You can submit complaints to POST through [this online
 form](https://post.ca.gov/public-complaint-form), or by downloading and
 completing [this PDF](https://post.ca.gov/Portals/0/post_docs/forms/2-354.pdf).
 
-See [the ACLU
+[The ACLU
 guide](https://www.aclunorcal.org/campaigns-initiatives/police-decertification-california-how-it-works/#complaint)
-for information on filing a complaint with POST. In particular, note their
-advice:
+provides detailed information on filing a complaint with POST. In particular,
+they advise:
 
 >You should first create a paper trail by filing a complaint to the local law
 >enforcement or oversight agency where the offending officer is employed. You
@@ -150,17 +158,7 @@ misconduct.
 
 >"Wandering officers" are law-enforcement officers fired by one
 >department, sometimes for serious misconduct, who then find work at another
->agency. Policing experts hold disparate views about the extent and character
->of the wandering-officer phenomenon. Some insist that wandering officers are
->everywhere—possibly increasingly so—and that they’re dangerous. Others,
->however, maintain that critics cherry-pick rare and egregious anecdotes that
->distort broader realities. In the absence of systematic data, we simply do not
->know how common wandering officers are or how much of a threat they pose, nor
->can we know whether and how to address the issue through policy reform.
->
->In this Article, we conduct the first systematic investigation of wandering
->officers and possibly the largest quantitative study of police misconduct of
->any kind. We introduce a novel data set of all 98,000 full-time
+>agency . . .. We introduce a novel data set of all 98,000 full-time
 >law-enforcement officers employed by almost 500 different agencies in the
 >State of Florida over a thirty-year period. We report three principal
 >findings. First, in any given year during our study, an average of just under
@@ -172,27 +170,15 @@ misconduct.
 >pattern does not hold for officers who were fired earlier in their careers.
 >Third, wandering officers are more likely than both officers hired as rookies
 >and those hired as veterans who have never been fired to be fired from their
->next job or to receive a complaint for a “moral character violation.” Although
->we cannot determine the precise reasons for the firings, these results suggest
->that wandering officers may pose serious risks, particularly given how
->difficult it is to fire a police officer. We consider several plausible
->explanations for why departments nonetheless hire wandering officers and
->suggest potential policy responses to each.
+>next job or to receive a complaint for a "moral character violation."
 
 ### [Identifying misconduct-committing officer crews in the Chicago police department](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267217)
 
->Explanations for police misconduct often center on a narrow notion of "problem
->officers," the proverbial "bad apples." Such an individualistic approach not
->only ignores the larger systemic problems of policing but also takes for
->granted the group-based nature of police work. Nearly all of police work is
->group-based and officers' formal and informal networks can impact behavior,
->including misconduct. In extreme cases, groups of officers (what we refer to
->as, "crews") have even been observed to coordinate their abusive and even
->criminal behaviors. This study adopts a social network and machine learning
->approach to empirically investigate the presence and impact of officer crews
->engaging in alleged misconduct in a major U.S. city: Chicago, IL. Using data
->on Chicago police officers between 1971 and 2018, we identify potential crews
->and analyze their impact on alleged misconduct and violence. Results detected
+>This study adopts a social network and machine learning approach to
+>empirically investigate the presence and impact of officer crews engaging in
+>alleged misconduct in a major U.S. city: Chicago, IL. Using data on Chicago
+>police officers between 1971 and 2018, we identify potential crews and analyze
+>their impact on alleged misconduct and violence. Results detected
 >approximately 160 possible crews, comprised of less than 4% of all Chicago
 >police officers. Officers in these crews were involved in an outsized amount
 >of alleged and actual misconduct, accounting for approximately 25% of all use
@@ -204,37 +190,12 @@ misconduct.
 
 ### [Private Security and Public Police](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4737135)
 
->Private security officers outnumber police by a wide margin, and the gap may
->be growing. As cities have claimed to defund the police, many have quietly
->expanded their use of private security, reallocating spending from the public
->to the private sector. It is difficult to know what to make of these trends,
->largely because we know so little about what private security looks like on
->the ground. On one prevalent view of the facts, a shift from public to private
->security would mean little more than a change of uniform, as the two labor
->markets are deeply intertwined. Indeed, academics, the media, popular culture,
->and the police themselves all tell us that private security is some amalgam of
->a police retirement community and a dumping ground for disgraced former cops.
->But if, instead, private officers differ systematically from the public
->police—and crossover between the sectors is limited—then substitution from
->policing to private security could drastically change who is providing
->security services.
-
->We bring novel data to bear on these questions, presenting the largest
->empirical study of private security to date. We introduce an administrative
->dataset covering nearly 300,000 licensed private security officers in the
->State of Florida. By linking this dataset to similarly comprehensive
->information about public law enforcement, we have, for the first time, a
->nearly complete picture of the entire security labor market in one state. We
->report two principal findings. First, the public and private security markets
->are predominantly characterized by occupational segregation, not integration.
->The individuals who compose the private security sector differ markedly from
->the public police; they are, for example, significantly less likely to be
->white men. We also find that few private officers, roughly 2%, have previously
->worked in public policing, and even fewer will go on to policing in the
->future. Second, while former police make up a small share of all private
->security, roughly a quarter of cops who do cross over have been fired from a
->policing job. In fact, fired police officers are nearly as likely to land in
->private security as to find another policing job, and a full quarter end up in
->one or the other. We explore the implications of these findings, including
->intersections with police abolition and the future of policing, at the paper’s
->close. 
+>We introduce an administrative dataset covering nearly 300,000 licensed
+>private security officers in the State of Florida. By linking this dataset to
+>similarly comprehensive information about public law enforcement, we have, for
+>the first time, a nearly complete picture of the entire security labor market
+>in one state. We report two principal findings . . . while former police make
+>up a small share of all private security, roughly a quarter of cops who do
+>cross over have been fired from a policing job. In fact, fired police officers
+>are nearly as likely to land in private security as to find another policing
+>job, and a full quarter end up in one or the other.
