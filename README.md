@@ -94,6 +94,21 @@ they advise:
 >investigation is complete, POST will review the findings to see if the
 >officer’s conduct warrants decertification.
 
+# Making public records requests under the Public Records Act (PRA)
+
+## [Police Transparency Handbook](https://firstamendmentcoalition.org/handbook/police-transparency-handbook/)
+
+This comprehensive guide from the First Amendment Coalition is specifically
+about making records requests for police use-of-force and officer misconduct
+records made public under California's SB-1421 and SB-16 ("Right to Know")
+laws.
+
+## [FOIA Basics for Activists](https://www.foiabasics.org/)
+
+This resource is designed to support activists, organizers, and social
+movements in filing FOIA requests to aid their ongoing campaigns and work. The
+resource covers all types of public records requests, including state-level and
+federal requests.
 
 # Additional resources about POST Decertification
 
