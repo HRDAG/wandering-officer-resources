@@ -4,6 +4,10 @@ connect them to California's new law creating the possibility to decertify
 police who commit serious misconduct, and provide resources and support for
 community members who experience bad encounters with police.
 
+Read about the event
+[here](https://hrdag.org/2026/02/03/watch-now-the-wandering-officer-new-databases-for-police-accountability/),
+and watch the full length recording of the event [here](https://youtu.be/YGaEgU6cTd8?si=3ZHUgh5i_Sv0vLdm).
+
 The event was co-hosted by:
 
 - [Anti Police-Terror Project (APTP)](https://www.antipoliceterrorproject.org/)
